@@ -60,20 +60,8 @@ If you would like to contribute to this project, please fork the repository and 
 
 ### ## Installation and Setup the project
 
-```bash
-git clone https://github.com/yourusername/GYM-Management-System-Arabic.git
+bash
+git clone https://github.com/yourusername/GYM-Management-System-in-Arabic.git
 cd GYM-Management-System-Arabic
 pip install pyqt5 pillow matplotlib barcode arabic_reshaper bidi.algorithm
 python Gym\ Management\ System.py
-Usage
-Login Screen
-
-
-
-
-نسخ الكود
-
-
-نسخ الكود
-
-
